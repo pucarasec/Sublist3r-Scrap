@@ -1,4 +1,3 @@
-selenium
 argparse
 dnspython
 requests
